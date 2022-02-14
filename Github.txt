@@ -16,6 +16,5 @@ contoh:
 1. pulldown
 2. handling input standar (ketika memasukkan karakter dalam keyboard)
 3. handling input tidak standar
-asdasdasd
 
 
