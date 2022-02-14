@@ -1,0 +1,21 @@
+pekerjaannya seperti apa
+
+
+1. membuat text editor
+	didalam text editor sendiri memiliki fitur
+contoh :
+1. menu pull down (
+
+
+
+
+
+intinya struktur data yang dimasukkan dalam array
+
+contoh:
+1. pulldown
+2. handling input standar (ketika memasukkan karakter dalam keyboard)
+3. handling input tidak standar
+asdasdasd
+
+
